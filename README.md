@@ -46,19 +46,15 @@ e4040-2020fall-Project-POSE-sp3779-pmn2119
 ├── Correspondance_Network.py
 ├── Correspondence.py
 ├── Demo_images
-├── Evaluated_Images
 ├── Helper.py
 ├── LineMOD.py
-├── LineMOD_Dataset
 ├── PoseRefinement.py
 ├── Pose_estimation.py
 ├── Test.py
 ├── UV_mapping.py
-├── _pycache_
 ├── correspondence_block.pt
 ├── ground_truth.py
 ├── pose_refiner.pt
-├── requirements.txt
-└── val2017
+└── requirements.txt
 ```
 To be populated by students, as shown in previous assignments
