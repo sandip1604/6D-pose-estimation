@@ -17,7 +17,9 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
 
 # Introduction
 
-This projects aims to predict the pose of an object in a cluttered scene using convolutional residual neural networks. To interface to the project is through the jupyter notebook 6DPE.ipynb.
+This projects aims to predict the pose of an object in a cluttered scene using convolutional residual neural networks. 
+
+To interface to the project is through the jupyter notebook 6DPE.ipynb.
 
 To execute the notebook. Install the required packages in a conda environment from the file requirements.txt. This can be done by executing the following command:
 
