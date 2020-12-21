@@ -23,6 +23,7 @@ Can be accessed using LionMail ID
 
 # Organization of this directory
 ```
+e4040-2020fall-Project-POSE-sp3779-pmn2119
 ├── 6DPE.ipynb
 ├── Correspondance_Network.py
 ├── Correspondence.py
