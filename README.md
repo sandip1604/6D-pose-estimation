@@ -39,6 +39,9 @@ https://drive.google.com/drive/folders/1guxX8XF1dZviTpT0OtTpxkrsTnhc4WFt?usp=sha
 
 Can be accessed using LionMail ID.
 
+## Note:
+Due to heavy implementation of the concept of pose refinenment some alogirthms of file pose estimation.py is adopted from https://github.com/yashs97/DPOD
+
 # Organization of this directory
 ```
 e4040-2020fall-Project-POSE-sp3779-pmn2119
