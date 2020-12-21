@@ -22,8 +22,7 @@ https://drive.google.com/drive/folders/1guxX8XF1dZviTpT0OtTpxkrsTnhc4WFt?usp=sha
 Can be accessed using LionMail ID
 
 # Organization of this directory
-'''
-.
+'''.
 ├── 6DPE.ipynb
 ├── Correspondance_Network.py
 ├── Correspondence.py
