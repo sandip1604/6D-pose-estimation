@@ -22,6 +22,23 @@ https://drive.google.com/drive/folders/1guxX8XF1dZviTpT0OtTpxkrsTnhc4WFt?usp=sha
 Can be accessed using LionMail ID
 
 # Organization of this directory
-'''bash
+'''
+├── 6DPE.ipynb
+├── Correspondance_Network.py
+├── Correspondence.py
+├── Evaluated_Images
+├── Helper.py
+├── LineMOD.py
+├── LineMOD_Dataset
+├── PoseRefinement.py
+├── Pose_estimation.py
+├── Test.py
+├── UV_mapping.py
+├── _pycache_
+├── correspondence_block.pt
+├── ground_truth.py
+├── pose_refiner.pt
+├── requirements.txt
+└── val2017
 '''
 To be populated by students, as shown in previous assignments
