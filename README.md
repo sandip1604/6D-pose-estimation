@@ -21,7 +21,7 @@ This projects aims to predict the pose of an object in a cluttered scene using c
 
 To execute the notebook. Install the required packages in a conda environment from the file requirements.txt. This can be done by executing the following command:
 
-$ conda create --name <env> --file requirements.txt
+$ conda create --name \<env\> --file requirements.txt
 
 The dataset is parsed into appropriate directory structure in the notebook itself. After parsing, the dataset is saved in root directory as LineMOD_dataset. 
 
