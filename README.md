@@ -25,7 +25,7 @@ This projects aims to predict the pose of an object in a cluttered scene using c
   
   Note: Green box represents the ground truth pose and red box represents predicted pose
 </p>
-To interface to the project is through the jupyter notebook 6DPE.ipynb.
+Interface to the project is through the jupyter notebook 6DPE.ipynb.
 
 To execute the notebook. Install the required packages in a conda environment from the file requirements.txt. This can be done by executing the following command:
 
@@ -45,6 +45,7 @@ e4040-2020fall-Project-POSE-sp3779-pmn2119
 ├── 6DPE.ipynb
 ├── Correspondance_Network.py
 ├── Correspondence.py
+├── Demo_images
 ├── Evaluated_Images
 ├── Helper.py
 ├── LineMOD.py
