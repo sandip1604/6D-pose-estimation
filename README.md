@@ -15,11 +15,6 @@ Seed repo for projects for e4040-2020Fall-project
 INSTRUCTIONS for naming the students' solution repository for assignments with more students, such as the final project. Students need to use a 4-letter groupID): 
 * Template: e4040-2020Fall-Project-GroupID-UNI1-UNI2-UNI3. -> Example: e4040-2020Fall-Project-MEME-zz9999-aa9999-aa0000.
 
-## Tensor Files
-The trained models are available at:
-https://drive.google.com/drive/folders/1guxX8XF1dZviTpT0OtTpxkrsTnhc4WFt?usp=sharing
-
-Can be accessed using LionMail ID
 # Introduction
 
 This projects aims to predict the pose of an object in a cluttered scene using convolutional residual neural networks. To interface to the project is through the jupyter notebook 6DPE.ipynb.
@@ -29,6 +24,12 @@ To execute the notebook. Install the required packages in a conda environment fr
 $ conda create --name <env> --file requirements.txt
 
 The dataset is parsed into appropriate directory structure in the notebook itself. After parsing, the dataset is saved in root directory as LineMOD_dataset. 
+
+## Tensor Files
+The trained models are available at:
+https://drive.google.com/drive/folders/1guxX8XF1dZviTpT0OtTpxkrsTnhc4WFt?usp=sharing
+
+Can be accessed using LionMail ID.
 
 # Organization of this directory
 ```
